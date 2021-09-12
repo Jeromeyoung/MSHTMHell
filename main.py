@@ -3,6 +3,7 @@ import colorama
 from colorama import Fore, Style
 
 def art():
+    #Intro Art
     print(Fore.RED + "       , ,, ," + Style.RESET_ALL)
     print(Fore.RED +"       | || | "+ Style.RESET_ALL + "   ,/  _____  \.")
     print(Fore.RED +"       \_||_/  "+ Style.RESET_ALL + "  ||_/     \_||")
